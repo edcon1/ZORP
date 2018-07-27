@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "true zorp", "true zorp\true zorp.vcxproj", "{E273D6EC-ECDF-4B85-9A7A-3733803F4830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E273D6EC-ECDF-4B85-9A7A-3733803F4830}.Debug|x64.ActiveCfg = Debug|x64
+		{E273D6EC-ECDF-4B85-9A7A-3733803F4830}.Debug|x64.Build.0 = Debug|x64
+		{E273D6EC-ECDF-4B85-9A7A-3733803F4830}.Debug|x86.ActiveCfg = Debug|Win32
+		{E273D6EC-ECDF-4B85-9A7A-3733803F4830}.Debug|x86.Build.0 = Debug|Win32
+		{E273D6EC-ECDF-4B85-9A7A-3733803F4830}.Release|x64.ActiveCfg = Release|x64
+		{E273D6EC-ECDF-4B85-9A7A-3733803F4830}.Release|x64.Build.0 = Release|x64
+		{E273D6EC-ECDF-4B85-9A7A-3733803F4830}.Release|x86.ActiveCfg = Release|Win32
+		{E273D6EC-ECDF-4B85-9A7A-3733803F4830}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E047D3F5-3E76-41BF-8AA3-7E7651198DFD}
+	EndGlobalSection
+EndGlobal
